@@ -1,3 +1,5 @@
 /.coverage
 /MANIFEST
 /dist/
+/build/
+/deb_dist/
